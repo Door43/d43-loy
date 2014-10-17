@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[loy:home|Door43 (loy)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-loy|d43-loy repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-loy/archive/master.zip|d43-loy.zip]]
+
+**Recent Changes**
+{{changes>ns = loy}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/loy|Ethnologue data]]
+
